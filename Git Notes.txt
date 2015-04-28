@@ -1,0 +1,6 @@
+windows compare: fc file1 file2
+linux/mac: diff -u file1 file
+
+git log - see the history
+git diff commitid1 commitid2 - compare two version of a file
+-git diff has colorized diffs
